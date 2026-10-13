@@ -182,38 +182,6 @@ Passionate about AI, machine learning, and data science, with a focus on buildin
 
 ---
 
-<!-- ==================== SUPPORT ==================== -->
-
-<h2 align="center">☕ SUPPORT MY WORK</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-If you find my work useful, you can support my learning and development journey.
-
-<br/><br/>
-
-<a href="https://www.buymeacoffee.com/Rokith">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me a Coffee"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://ko-fi.com/rokith-dev">
-  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" alt="Support me on Ko-fi"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 <!-- ==================== FOOTER ==================== -->
 
 <div align="center">
